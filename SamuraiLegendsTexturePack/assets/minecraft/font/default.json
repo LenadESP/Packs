@@ -4,8 +4,8 @@
 		{	
 			"type":"bitmap",
 			"file":"along:font/survivalcustom.png",
-			"ascent":50,
-			"height":75,
+			"ascent":14,
+			"height":60,
 			"chars":["\u2806"]
     	}
 	]	
