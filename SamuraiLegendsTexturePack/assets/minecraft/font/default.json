@@ -1,0 +1,12 @@
+{
+  "providers":
+	[
+		{	
+			"type":"bitmap",
+			"file":"along:font/survivalcustom.png",
+			"ascent":150,
+			"height":200,
+			"chars":["\u2806"]
+    	}
+	]	
+}
