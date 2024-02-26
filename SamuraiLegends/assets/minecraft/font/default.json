@@ -1,0 +1,13 @@
+{
+    "providers":[
+        {
+            "type":"bitmap",
+            "file":"minecraft:sb/survivalcustom.png",
+			"ascent":15,
+			"height":35,
+            "chars":[
+                ""
+            ]
+        }
+    ]
+}
