@@ -12,8 +12,8 @@
         {
             "type":"bitmap",
             "file":"minecraft:rangos/VISITANTE.png",
-			"ascent":5,
-			"height":10,
+			"ascent":2,
+			"height":5,
             "chars":[
                 "꜇"
             ]
