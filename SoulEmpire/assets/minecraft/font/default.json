@@ -2,11 +2,20 @@
     "providers":[
         {
             "type":"bitmap",
-            "file":"minecraft:sb/survivalcustom.png",
+            "file":"minecraft:logos/survivalcustom.png",
 			"ascent":15,
 			"height":35,
             "chars":[
                 ""
+            ]
+        },
+        {
+            "type":"bitmap",
+            "file":"minecraft:ragos/VISITANTE.png",
+			"ascent":5,
+			"height":15,
+            "chars":[
+                "🂧"
             ]
         }
     ]
