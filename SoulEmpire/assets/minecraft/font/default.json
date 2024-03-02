@@ -11,7 +11,7 @@
         },
         {
             "type":"bitmap",
-            "file":"minecraft:ragos/VISITANTE.png",
+            "file":"minecraft:rangos/VISITANTE.png",
 			"ascent":5,
 			"height":15,
             "chars":[
