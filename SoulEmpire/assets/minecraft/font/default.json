@@ -12,7 +12,7 @@
         {
             "type":"bitmap",
             "file":"minecraft:rangos/visitante.png",
-			"ascent":9,
+			"ascent":7,
 			"height":8,
             "chars":[
                 "꜇"
