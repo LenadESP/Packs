@@ -12,8 +12,8 @@
         {
             "type":"bitmap",
             "file":"minecraft:logos/soulcoins.png",
-			"ascent":5,
-			"height":5,
+			"ascent":3,
+			"height":3,
             "chars":[
                 "ʮ"
             ]
