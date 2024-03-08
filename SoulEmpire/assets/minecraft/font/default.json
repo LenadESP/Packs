@@ -20,7 +20,7 @@
         },
         {
             "type":"bitmap",
-            "file":"minecraft:rangos/staff/OWNER.png",
+            "file":"minecraft:rangos/staff/owner.png",
 			"ascent":5,
 			"height":5,
             "chars":[
