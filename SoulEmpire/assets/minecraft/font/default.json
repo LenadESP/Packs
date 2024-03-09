@@ -11,6 +11,15 @@
         },
         {
             "type":"bitmap",
+            "file":"minecraft:logos/soulempire.png",
+			"ascent":15,
+			"height":35,
+            "chars":[
+                "⋁"
+            ]
+        },
+        {
+            "type":"bitmap",
             "file":"minecraft:logos/bienvenidos.png",
 			"ascent":35,
 			"height":35,
