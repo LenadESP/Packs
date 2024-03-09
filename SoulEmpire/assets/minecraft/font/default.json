@@ -4,7 +4,7 @@
             "type":"bitmap",
             "file":"minecraft:logos/survivalcustom.png",
 			"ascent":40,
-			"height":40,
+			"height":15,
             "chars":[
                 ""
             ]
@@ -13,7 +13,7 @@
             "type":"bitmap",
             "file":"minecraft:logos/soulempire.png",
 			"ascent":40,
-			"height":40,
+			"height":15,
             "chars":[
                 "⋁"
             ]
