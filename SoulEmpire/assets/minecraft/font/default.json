@@ -3,8 +3,8 @@
         {
             "type":"bitmap",
             "file":"minecraft:logos/survivalcustom.png",
-			"ascent":15,
-			"height":35,
+			"ascent":40,
+			"height":40,
             "chars":[
                 ""
             ]
@@ -12,8 +12,8 @@
         {
             "type":"bitmap",
             "file":"minecraft:logos/soulempire.png",
-			"ascent":15,
-			"height":35,
+			"ascent":40,
+			"height":40,
             "chars":[
                 "⋁"
             ]
@@ -30,8 +30,8 @@
         {
             "type":"bitmap",
             "file":"minecraft:logos/soulcoins.png",
-			"ascent":16,
-			"height":16,
+			"ascent":8,
+			"height":8,
             "chars":[
                 "ʮ"
             ]
