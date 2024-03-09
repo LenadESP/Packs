@@ -56,15 +56,6 @@
         },
         {
             "type":"bitmap",
-            "file":"minecraft:rangos/staff/fundadores.png",
-			"ascent":7,
-			"height":7,
-            "chars":[
-                "ʴ"
-            ]
-        },
-        {
-            "type":"bitmap",
             "file":"minecraft:rangos/staff/admin.png",
 			"ascent":7,
 			"height":7,
