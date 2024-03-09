@@ -47,6 +47,69 @@
         },
         {
             "type":"bitmap",
+            "file":"minecraft:rangos/staff/fundadores.png",
+			"ascent":7,
+			"height":7,
+            "chars":[
+                "ʴ"
+            ]
+        },
+        {
+            "type":"bitmap",
+            "file":"minecraft:rangos/staff/fundadores.png",
+			"ascent":7,
+			"height":7,
+            "chars":[
+                "ʴ"
+            ]
+        },
+        {
+            "type":"bitmap",
+            "file":"minecraft:rangos/staff/admin.png",
+			"ascent":7,
+			"height":7,
+            "chars":[
+                "ʵ"
+            ]
+        },
+        {
+            "type":"bitmap",
+            "file":"minecraft:rangos/staff/builder.png",
+			"ascent":7,
+			"height":7,
+            "chars":[
+                "ʶ"
+            ]
+        },
+        {
+            "type":"bitmap",
+            "file":"minecraft:rangos/staff/helper.png",
+			"ascent":7,
+			"height":7,
+            "chars":[
+                "⊽"
+            ]
+        },
+        {
+            "type":"bitmap",
+            "file":"minecraft:rangos/staff/jmod.png",
+			"ascent":7,
+			"height":7,
+            "chars":[
+                "⊾"
+            ]
+        },
+        {
+            "type":"bitmap",
+            "file":"minecraft:rangos/staff/moderador.png",
+			"ascent":7,
+			"height":7,
+            "chars":[
+                "⊿"
+            ]
+        },
+        {
+            "type":"bitmap",
             "file":"minecraft:customitems/totem_virgo_name.png",
 			"ascent":5,
 			"height":5,
