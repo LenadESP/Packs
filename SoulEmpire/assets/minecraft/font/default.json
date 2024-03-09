@@ -12,8 +12,8 @@
         {
             "type":"bitmap",
             "file":"minecraft:logos/soulcoins.png",
-			"ascent":10,
-			"height":10,
+			"ascent":15,
+			"height":15,
             "chars":[
                 "ʮ"
             ]
@@ -34,6 +34,15 @@
 			"height":7,
             "chars":[
                 "ʭ"
+            ]
+        },
+        {
+            "type":"bitmap",
+            "file":"minecraft:rangos/staff/desarrollador.png",
+			"ascent":5,
+			"height":5,
+            "chars":[
+                "ʱ"
             ]
         },
         {
