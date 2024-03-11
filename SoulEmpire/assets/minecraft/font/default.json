@@ -30,8 +30,8 @@
         {
             "type":"bitmap",
             "file":"minecraft:logos/bienvenidos.png",
-			"ascent":35,
-			"height":35,
+			"ascent":70,
+			"height":70,
             "chars":[
                 "⋀"
             ]
