@@ -9,7 +9,7 @@
             "predicate":{
                 "custom_model_data": 1
             },
-            "model": "customitems/armas/espadatest.json"
+            "model": "customitems/armas/espadatest"
         }
     ]
 }
