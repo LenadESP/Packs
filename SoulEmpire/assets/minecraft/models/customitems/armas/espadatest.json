@@ -12,7 +12,7 @@
 		"9": "minecraft:customitems/armas/espadatest/hojagrande",
 		"10": "minecraft:customitems/armas/espadatest/partearribahojapequena",
 		"11": "minecraft:customitems/armas/espadatest/partearribahojagrande",
-		"particle": "mango espada 1"
+		"particle": "minecraft:customitems/armas/espadatest/mango"
 	},
 	"elements": [
 		{
