@@ -9,7 +9,13 @@
             "predicate":{
                 "custom_model_data": 1
             },
-            "model": "customitems/armas/espadatest"
+            "model": "customitems/armas/espadadelvacio"
+        },
+        {
+            "predicate":{
+                "custom_model_data": 2
+            },
+            "model": "customitems/armas/espadadeoro"
         }
     ]
 }
