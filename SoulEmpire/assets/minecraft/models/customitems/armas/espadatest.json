@@ -1,5 +1,4 @@
 {
-	"parent": "minecraft:item/handheld",
 	"texture_size": [8, 8],
 	"textures": {
 		"1": "minecraft:customitems/armas/espadatest/mango",
@@ -11,8 +10,8 @@
 		"7": "minecraft:customitems/armas/espadatest/pinchoempunadura2",
 		"8": "minecraft:customitems/armas/espadatest/hojapequena",
 		"9": "minecraft:customitems/armas/espadatest/hojagrande",
-		"10": "minecraft:customitems/armas/espadatest/partearribahojapequeña",
-		"11": "minecraft:customitems/armas/espadatest/partearribahojagradne",
+		"10": "minecraft:customitems/armas/espadatest/partearribahojapequena",
+		"11": "minecraft:customitems/armas/espadatest/partearribahojagrande",
 		"particle": "mango espada 1"
 	},
 	"elements": [
